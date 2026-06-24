@@ -3,7 +3,7 @@ header{
     height: 80vh;
     margin: auto;
     border-radius: 10px;
-    background: radial-gradient(circle,rgb(48, 48, 164),rgb(178, 123, 123),rgb(147, 116, 63));
+    background: radial-gradient(circle,rgb(48, 48, 164),rgb(141, 101, 101),rgb(147, 116, 63));
 }
 section{
     text-align: center;
